@@ -7,3 +7,7 @@ The purpose of the study is to determine how community dynamics, law enforcement
 Additionally, it assesses the effectiveness of current crime prevention and intervention programs, providing a comprehensive understanding of effective tactics that are transferable to other jurisdictions. 
 The results of this study add to the body of knowledge in the field of criminology and offer policymakers, law enforcement, and community stakeholders’ useful information. 
 A comparative examination of crime data becomes essential as societies struggle with changing crime landscapes in order to generate targeted and context-specific actions that will ultimately lead to safer and more secure communities.
+
+
+
+To WORK on this you can download the crime dataset from CHICAGO POLICE official website. Then make changes to the code correspondingly.
